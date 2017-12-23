@@ -1,6 +1,10 @@
 # nfs-data
 Data and data visualization for Need for Speed games
 
+# Available data
+
+ - [Need for Speed 2015 car stats and visual customization](nfs-2015-data.xml)
+
 # License
 All data (contained in the XML files) is property of Electronic Arts and of the respective car brands. It is believed to fall under fair use since:
  - The present data visualization is made available for free
